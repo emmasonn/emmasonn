@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnamani-chinonso-0312a816a/)](https://www.linkedin.com/in/nnamani-chinonso-0312a816a/)
 
 
-### I'm an Android Developer with a focus on building Android applications using Java, Kotlin, dart with a Restful Mobile application backend using NodeJs and Firebase real-time database.
+### 
+I'm an Android Developer with a focus on building Android applications using Java, Kotlin, dart with a Restful Mobile application backend using NodeJs and Firebase real-time database.
 
   ###  :point_right:#OpenToNetwork
 
