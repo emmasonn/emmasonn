@@ -17,7 +17,7 @@ I'm an Android Developer with a focus on building Android applications using Jav
 - 🤔 I’m looking for help with job opportunities
 - 📙 Check out my [Resume](https://drive.google.com/file/d/10H_k5lFKmQq_X_GYpIYjSK9GojhVxzrX/view?usp=sharing)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I believe, I am a commedian.
+- ⚡ Fun fact: I believe, i can make anyone laugh.. ask me why.
 
 ### Thank you for checking my profile
 
