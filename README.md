@@ -5,7 +5,7 @@
 
 
 ### 
-I'm an Android Developer with a focus on building Android applications using Java, Kotlin and dart with a Restful Mobile application backend using NodeJs and Firebase real-time database.
+I'm an Android Developer with a focus on building Android applications using Java, Kotlin,  flutter  and dart. 
 
   ###  :point_right:#OpenToNetwork
 
